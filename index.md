@@ -7,7 +7,8 @@ layout: default
 
 
 
-[Link to another page](./another-page.html).
+<!---[Link to another page](./another-page.html). --->
+
 
 
 # About Me
@@ -25,9 +26,10 @@ We will demostrate different ways to compromise a machine wether it is using met
 
 Here we can find the list for each machine write up, hope this material is useful: 
 
-1.  [Blue](./another-page.html)
-2.   [Jerry](./another-page.html)
-3.   [Love](./another-page.html)
+1.  [Blue](./blue.html)
+<!--- 2.   [Jerry](./another-page.html) --->
+<!--- 3.   [Love](./another-page.html)
+  --->
 
 <!---  ### Header 3
 
@@ -117,5 +119,6 @@ end
 </dl>
 
 ```--->
+
 
 
