@@ -2,25 +2,34 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+<!--- Text can be **bold**, _italic_, or ~~strikethrough~~. --->
+
+
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# About Me
 
-# Header 1
+I am a cyber security enthuasiast always searching to learn and develop new skills.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This blog is born to provide a different arrays of write ups from hack the box machines, mainly the ones similar to the ones you may encounter in the EJPT certification exam from INE.
 
-## Header 2
+I am trying to obtain the certification myself, hence I will try to explan as I learn, this I find to be a very effective way to determine wether or not I am truly understanding what I am saying.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+We will demostrate different ways to compromise a machine wether it is using metasploit or doing it manually, both options will be offered so you can decide what suits you best.
 
-### Header 3
+
+## Machines
+
+Here we can find the list for each machine write up, hope this material is useful: 
+
+1.  [Blue](./another-page.html)
+2.   [Jerry](./another-page.html)
+3.   [Love](./another-page.html)
+
+<!---  ### Header 3
 
 ```js
 // Javascript code with syntax highlighting.
@@ -30,24 +39,17 @@ var fun = function lang(l) {
 }
 ```
 
+
 ```ruby
 # Ruby code with syntax highlighting
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
+
 ```
 
-#### Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
 
 ###### Header 6
 
@@ -114,10 +116,6 @@ end
 <dd>Green</dd>
 </dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+```--->
 
-```
-The final element.
-```
+
